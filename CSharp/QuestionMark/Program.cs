@@ -20,3 +20,7 @@ bool? check = null;
 // tuong tu != , fullname ma khac null thi tra ve ve sau
 
 int? length = fullname?.Length;
+
+// null-coalescing operating ?? 
+// tuong tu nhu dau ==, fullname bang null thi tra ve ve sau
+int? chieudai = fullname?.Length ?? 0;
