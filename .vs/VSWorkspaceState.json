@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\CSharp",
+    "\\CSharp\\RefOut",
+    "\\CSharp\\RegexTryParse"
   ],
+  "SelectedNode": "\\CSharp\\RegexTryParse\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
